@@ -192,7 +192,7 @@ if (homeWorkNumber == 8)
     }
     Console.WriteLine($"1 - 200 arasında 3'e veya 5'e tam bölünebilen sayıların adeti: {sayac1}");
 }
-else
+if(homeWorkNumber == 9)
 {
     return;
 }
